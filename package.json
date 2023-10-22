@@ -18,5 +18,8 @@
   "homepage": "https://github.com/cmsusergit/agroapp#readme",
   "dependencies": {
     "slim-js": "^5.0.10"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
   }
 }
